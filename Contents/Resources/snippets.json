@@ -1,7 +1,7 @@
 {
 	"variables": {
-		"lang": "en",
-		"locale": "en-US",
+		"lang": "ja",
+		"locale": "ja-JP",
 		"charset": "UTF-8",
 		"indentation": "\t",
 		"newline": "\n"
@@ -768,6 +768,10 @@
 			"optgroup+": "optgroup>option",
 			"optg+": "optgroup>option"
 		}
+	},
+	
+	"php": {
+		"extends": "html",
 	},
 	
 	"xml": {

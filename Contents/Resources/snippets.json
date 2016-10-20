@@ -770,6 +770,10 @@
 		}
 	},
 	
+	"php": {
+		"extends": "html",
+	},
+	
 	"xml": {
 		"extends": "html",
 		"profile": "xml",
